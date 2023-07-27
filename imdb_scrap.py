@@ -1,7 +1,6 @@
 import json
 from bs4 import BeautifulSoup
 import urllib.request
-from bs4 import BeautifulSoup
 import requests
 import pandas as pd
 import time
